@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Topic 1/part1"
+		},
+		{
+			"path": "Topic 1/Part2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "workspaceCST-120"
+	}
+}
